@@ -75,7 +75,7 @@ elif app_mode =='Prediction':
 
     # Görsel
     with col2:
-        image = st.image('/Users/ibrahim/PycharmProjects/hpp_stream/vis/predict.jpg', caption="Let's Calculate")
+        image = st.image('./vis/predict.jpg', caption="Let's Calculate")
 
 ############## ABOUT  PROJECT ##############
 elif app_mode =='About Project':
