@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from xgboost import XGBRegressor
 
 st.set_page_config(
     page_title="HousePrice Prediction App",
